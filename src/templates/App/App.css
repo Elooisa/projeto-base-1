@@ -1,13 +1,13 @@
 footer{
-    background-color: antiquewhite;
+    background-color: #A64182;
     padding: 10px;
     text-align: center;
 }
 
 .menu{
-    background-color: brown; 
+    background-color:#732457; 
  }
  
  .menu a {
-     color: aqua;
+     color: #5DA649;
  }
